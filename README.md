@@ -4,6 +4,10 @@
   <img align="left" alt="Miquel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://codepen.io/MiquelLopez">
+  <img align="left" alt="Miquel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codepen.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Miquel-Lopez-Avila.Miquel-Lopez-Avila)
 
 <hr> 
