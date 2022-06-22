@@ -1,3 +1,5 @@
+<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /> Hey! Nice to see you.<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /></h1>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -20,80 +22,14 @@
   <img align="left" alt="Miquel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://codepen.io/MiquelLopez">
-  My codepen
-</a>
+<a href="https://codepen.io/MiquelLopez">My codepen</a>
 
+<hr> 
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Miquel-Lopez-Avila.Miquel-Lopez-Avila)
 
-<hr> 
-<div align="center">
-  <p><b>Languages and Tools:</b></p>
-<code>
-  <img 
-       height="35" 
-       alt="JavaScript" 
-       title="JavaScript" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-   ></code>
 
-<code>
-  <img 
-       height="35" 
-       alt="Angular" 
-       title="Angular" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-  ></code>
-
-<code>
-  <img 
-       height="35" 
-       alt="React" 
-       title="React"  
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-     ></code>
-<code>
-  <img 
-       height="35" 
-       alt="NodeJS" 
-       title="NodeJS"  
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-     ></code>
-<code>
-  <img 
-       height="35" 
-       alt="Symfony" 
-       title="Symfony" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"
-     ></code>
-<code>
-  <img 
-       height="35" 
-       alt="Laravel" 
-       title="Laravel" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"
-   ></code>
-<code>
-  <img 
-       height="35" 
-       alt="MySQL" 
-       title="MySQL" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-   ></code>
-<code>
-  <img 
-       height="35" 
-       alt="Git" 
-       title="Git" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-   ></code>
-</div>
-
-<hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miquel-Lopez-Avila&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
