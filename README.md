@@ -27,6 +27,8 @@
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
 </p>
 
+<hr> 
+
 <a href="https://www.linkedin.com/in/miquel-lópez-avila-45b9b91b2">
   <img align="left" alt="Miquel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
