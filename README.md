@@ -1,6 +1,10 @@
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /> Hello, I'm Miquel! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /></h1>
+<h1>
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /> 
+  Hello, I'm Miquel! 
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" />
+</h1>
 
-<h3>Things I code with</h3>
+<h3>⚡ Technologies</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -30,9 +34,6 @@
 <a href="https://codepen.io/MiquelLopez">My codepen</a>
 
 <hr> 
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Miquel-Lopez-Avila.Miquel-Lopez-Avila)
 
 
 
