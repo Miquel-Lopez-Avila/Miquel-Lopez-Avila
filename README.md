@@ -32,9 +32,6 @@
 <h3>🚀 About me</h3>
 
 <table width="100% !important">
-  <tr>
-    <td valign="top" width="100%">ss</td>
-  <tr/>
  <tr>
    <td valign="top" width="50%">
 
