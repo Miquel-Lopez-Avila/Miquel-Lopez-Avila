@@ -1,7 +1,7 @@
 <h1>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" /> 
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" height="30px" alt="new" /> 
   Hello, I'm Miquel! 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" alt="new" />
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" height="30px" alt="new" />
 </h1>
 
 <h3>⚡ Things I code with</h3>
@@ -32,6 +32,9 @@
 <h3>🚀 About me</h3>
 
 <table width="100% !important">
+  <tr>
+    <td valign="top" width="100%" colspan="2">asdasd</td>
+  </tr>
  <tr>
    <td valign="top" width="50%">
 
@@ -45,10 +48,6 @@
 - 🏢 I'm currently working at [**Aire Networks**](https://www.airenetworks.es/)
 - 🌱 Currently learning **Docker**
 - 🧐 Interested in **Clean Code, Clever Code**
-  
- <hr>
-  
-[DOWNLOAD MY CV]()
   
 </td>
    <td valign="top" width="50%">
@@ -71,8 +70,13 @@
 
 </td>
 
-</tr></table>
-
+</tr>
+</table>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+        [DOWNLOAD MY CV]()
+    </td>
+  </tr>
 </td></tr></table>
 
 <hr> 
