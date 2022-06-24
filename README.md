@@ -33,9 +33,10 @@
 
 <table width="100% !important">
   <tr>
-    <td valign="top">ss</td>
+    <td valign="top" width="100%">ss</td>
   <tr/>
- <tr><td valign="top" width="50%">
+ <tr>
+   <td valign="top" width="50%">
 
 ##### NOW
 
@@ -52,7 +53,8 @@
   
 [DOWNLOAD MY CV]()
   
-</td><td valign="top" width="50%">
+</td>
+   <td valign="top" width="50%">
 
 ##### PROJECTS
 
