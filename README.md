@@ -29,17 +29,61 @@
 
 <hr> 
 
-<a href="https://www.linkedin.com/in/miquel-lópez-avila-45b9b91b2">
-  <img align="left" alt="Miquel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h3>🚀 About me</h3>
 
-<a href="https://codepen.io/MiquelLopez">My codepen</a>
+<table width="100% !important">
+  <tr>
+    <td valign="top">ss</td>
+  <tr/>
+ <tr><td valign="top" width="50%">
+
+##### NOW
+
+- ✨ Working as Frontend developer.
+- 🎯 Publishing my first npm library in **JavaScript**
+
+##### BIO
+
+- 🏢 I'm currently working at [**Aire Networks**](https://www.airenetworks.es/)
+- 🌱 Currently learning **Docker**
+- 🧐 Interested in **Clean Code, Clever Code**
+  
+ <hr>
+  
+[DOWNLOAD MY CV]()
+  
+</td><td valign="top" width="50%">
+
+##### PROJECTS
+
+<table><tr>
+
+<td valign="top" width="33%">
+
+###### Flow time
+[<img src="" width="100">]()
+
+</td>
+
+<td valign="top" width="33%">
+
+###### Nodes navigation focus
+[<img src="" width="100">]()
+
+</td>
+
+</tr></table>
+
+</td></tr></table>
 
 <hr> 
 
 <h3>📫 Where to find me</h3>
 
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="mailto:miquellopezavila@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 
