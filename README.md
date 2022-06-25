@@ -61,7 +61,7 @@
 <tr>
   <td valign="top" width="100%">
 
-###### Navigation focus - JS & React hooks - Library
+###### NAVIGATION FOCUS - JS & React hooks - Library
 [<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
 </td>
 </tr>
@@ -69,14 +69,14 @@
   <tr>
 <td valign="top" width="100%">
 
-###### Flow time - React - Extension
+###### FLOW TIME - React - Extension
 [<img src="https://user-images.githubusercontent.com/75219640/175789757-6b10349e-33cd-419d-88d2-877aa77eee3a.png" width="450">]()
 
 </td>
   </tr>
 <td valign="top" width="100%">
 
-###### Carendar - React - Website
+###### CARENDAR - React - Website
 [<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
 
 </td>
