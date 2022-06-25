@@ -31,7 +31,7 @@
 
 <h3>🚀 About me</h3>
 
-<table width="100% !important">
+<table width="100% !important" style="width: 100% !important;">
   <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2" align="end" valign="center">
