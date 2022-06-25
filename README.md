@@ -41,6 +41,13 @@
  <tr>
    <td valign="top" width="50%">
 
+##### ME
+
+- 🇪🇸 Living
+- 🐱 Mino
+- ❤️ Music, Disney, Films & Series, Coffee, Cold
+- 🎮 CS & Valorant
+ 
 ##### NOW
 
 - ✨ Working as Frontend developer.
