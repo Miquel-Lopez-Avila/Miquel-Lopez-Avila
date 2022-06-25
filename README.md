@@ -17,9 +17,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Js" src="https://img.shields.io/badge/-JavaScript-3c9d5e?style=flat-square&logo=javascript" />
-    <img alt="Java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img alt="Js" src="https://img.shields.io/badge/-JavaScript-3c9d5e?style=flat-square&logo=javascript" />
+  <img alt="Java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-dbe1a6?style=flat-square&logo=mysql" />
@@ -62,21 +62,22 @@
   <td valign="top" width="100%">
 
 ###### Navigation focus
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="410">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="433">]()
 </td>
 </tr>
+
   <tr>
 <td valign="top" width="100%">
 
 ###### Flow time
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="410">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="433">]()
 
 </td>
   </tr>
 <td valign="top" width="100%">
 
 ###### Carendar
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="410">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="433">]()
 
 </td>
     </tr>
