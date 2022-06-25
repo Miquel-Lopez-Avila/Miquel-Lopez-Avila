@@ -45,7 +45,7 @@
 
 - 🇪🇸 Living
 - 🐱 Mino
-- ❤️ Music, Disney, Films & Series, Coffee, Cold
+- ❤️ Music, Read, Films & Series, Coffee, Cold
 - 🎮 CS & Valorant
  
 ##### NOW
