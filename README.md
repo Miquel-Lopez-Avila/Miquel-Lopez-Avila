@@ -35,8 +35,7 @@
   <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2" align="end" valign="center">
-      <span>Feel free to download my CV
-      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" /></a></span>
+      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download my CV-blue?style=for-the-badge&logo=download&logoColor=white" /></a>
     </td>
   </tr>
  <tr>
@@ -78,7 +77,7 @@
 </table>
   <tr height="80px !important">
     <td valign="center" width="100%" colspan="2" style='color:red' align="end" valign="center">
-      <p><p align="start">If you like my work, you can invite me a coffe!</p><a href="https://www.buymeacoffee.com/miquellopez" target="_blank" height="28px !important"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" /></a></p>
+     <p align="start">If you like my work, you can invite me a coffe!</p><a href="https://www.buymeacoffee.com/miquellopez" target="_blank" height="28px !important"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-bottom: 10px;" /></a><p></p>
     </td>
   </tr>
    </td></tr>
