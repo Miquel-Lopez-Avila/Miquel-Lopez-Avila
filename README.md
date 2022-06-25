@@ -70,6 +70,13 @@
 
 ###### Nodes navigation focus
 [<img src="" width="100">]()
+  
+<td valign="top" width="33%">
+
+###### Carendar
+[<img src="" width="100">]()
+
+</td>
 
 </td>
 
