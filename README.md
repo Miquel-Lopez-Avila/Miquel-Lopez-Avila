@@ -76,8 +76,9 @@
 </tr>
 </table>
   <tr height="80px !important">
-    <td valign="center" width="100%" colspan="2" style='color:red' align="end" valign="center">
-     <p align="start">If you like my work, you can invite me a coffe!</p><a href="https://www.buymeacoffee.com/miquellopez" target="_blank" height="28px !important"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-bottom: 10px;" /></a><p></p>
+    <td valign="center" width="100%" colspan="2" style='padding-bottom:5px;' align="end" valign="center">
+      <br>
+     <p align="start" margin="10px">If you like my work, you can invite me a coffe!</p><a href="https://www.buymeacoffee.com/miquellopez" target="_blank" height="28px !important"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-bottom: 10px;" /></a><p></p>
     </td>
   </tr>
    </td></tr>
