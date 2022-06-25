@@ -62,7 +62,7 @@
   <td valign="top" width="100%">
 
 ###### Navigation focus
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="433">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
 </td>
 </tr>
 
@@ -70,14 +70,14 @@
 <td valign="top" width="100%">
 
 ###### Flow time
-[<img src="https://user-images.githubusercontent.com/75219640/175789757-6b10349e-33cd-419d-88d2-877aa77eee3a.png" width="433">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175789757-6b10349e-33cd-419d-88d2-877aa77eee3a.png" width="450">]()
 
 </td>
   </tr>
 <td valign="top" width="100%">
 
 ###### Carendar
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="433">]()
+[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
 
 </td>
     </tr>
