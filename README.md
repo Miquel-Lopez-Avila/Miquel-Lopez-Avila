@@ -32,7 +32,7 @@
 <h3>🚀 About me</h3>
 
 <table width="100% !important">
-  <tr>
+  <tr height="50px !important">
     <td valign="top" width="100%" colspan="2">asdasd</td>
   </tr>
  <tr>
@@ -72,11 +72,9 @@
 
 </tr>
 </table>
-  <tr>
-    <td valign="top" width="100%" colspan="2">
-        [DOWNLOAD MY CV]()
-      <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-      <button>asdsad</button>
+  <tr height="50px !important">
+    <td valign="top" width="100%" colspan="2" style="text-align: right; !important">
+      <a href="https://www.buymeacoffee.com/miquellopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
     </td>
   </tr>
 </td></tr></table>
