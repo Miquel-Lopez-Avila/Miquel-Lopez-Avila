@@ -34,8 +34,8 @@
 <table width="100% !important">
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2">
-      Feel free to download my CV
-      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" /></a>  
+      <span style="display: flex !important; align-items: center !important; justify-content: space-between !important;">Feel free to download my CV
+      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" /></a> </span>
     </td>
   </tr>
  <tr>
@@ -76,8 +76,8 @@
 </tr>
 </table>
   <tr height="80px !important">
-    <td valign="center" width="100%" colspan="2" style="display: flex; justify-content: space-between;">
-      <span>If you like my work, you can invite me a coffe! :)</span> <a href="https://www.buymeacoffee.com/miquellopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    <td valign="center" width="100%" colspan="2" style='color:red'>
+      <span style='color:red'>If you like my work, you can invite me a coffe! :) <a href="https://www.buymeacoffee.com/miquellopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></span>
     </td>
   </tr>
 </td></tr></table>
