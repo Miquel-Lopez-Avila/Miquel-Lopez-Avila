@@ -76,7 +76,7 @@
   </tr>
 <td valign="top" width="100%">
 
-###### CARENDAR - React - Website
+###### CARENDAR - React & Laravel - Website
 [<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
 
 </td>
