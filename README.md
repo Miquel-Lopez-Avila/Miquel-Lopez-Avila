@@ -1,7 +1,7 @@
-<h1>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" height="30px" alt="new" /> 
+<h1 valign="center">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="38" height="38px" alt="new" valign="bottom"/> 
   Hello, I'm Miquel! 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30" height="30px" alt="new" />
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="38" height="38px" alt="new" valign="bottom"/>
 </h1>
 
 <h3>⚡ Things I code with</h3>
@@ -32,10 +32,11 @@
 <h3>🚀 About me</h3>
 
 <table width="100% !important">
+  <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2">
-      <span style="display: flex !important; align-items: center !important; justify-content: space-between !important;">Feel free to download my CV
-      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" /></a> </span>
+      <span>Feel free to download my CV
+      <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" /></a> </span>
     </td>
   </tr>
  <tr>
@@ -76,11 +77,12 @@
 </tr>
 </table>
   <tr height="80px !important">
-    <td valign="center" width="100%" colspan="2" style='color:red'>
-      <span style='color:red'>If you like my work, you can invite me a coffe! :) <a href="https://www.buymeacoffee.com/miquellopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></span>
+    <td><span align="start" style="border-right: 0px !important;">If you like my work, you can invite me a coffe! :)</span></td>
+    <td valign="center" width="100%" colspan="2" style='color:red' align="end">
+      <a href="https://www.buymeacoffee.com/miquellopez" target="_blank" height="28px !important"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" alt="Buy Me A Coffee" style="width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
     </td>
   </tr>
-</td></tr></table>
+   </td></tr></tbody></table>
 
 <hr> 
 
@@ -90,6 +92,8 @@
   <a href="https://github.com/Miquel-Lopez-Avila" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="mailto:miquellopezavila@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+    <a href="https://www.polywork.com/miquel_lopez"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
 </p>
 
 
