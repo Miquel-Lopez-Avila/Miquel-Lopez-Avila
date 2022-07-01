@@ -73,7 +73,7 @@ If you like my work, you can invite me a coffe!
   <td valign="top" width="100%">
 
 ###### NAVIGATION FOCUS - JS & React hooks - Library
-[<img src="https://user-images.githubusercontent.com/75219640/175782206-678e634e-4d71-418a-850d-21089729e222.png" width="450">]()
+[<img src="" width="450">]()
 </td>
 </tr>
 
