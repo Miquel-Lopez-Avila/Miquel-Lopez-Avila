@@ -55,7 +55,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Aire Networks**](https://www.airenetworks.es/)
+- 🏢 I'm currently working at [**atSistemas**](https://www.atsistemas.com/es)
 - 🌱 Currently learning **Docker**
 - 🧐 Interested in **Clean Code, Clever Code**
 
@@ -73,7 +73,7 @@ If you like my work, you can invite me a coffe!
   <td valign="top" width="100%">
 
 ###### NAVIGATION FOCUS - JS & React hooks - Library
-[<img src="" width="450">]()
+![Screen Recording 2022-09-10 at 13 17 30](https://user-images.githubusercontent.com/75219640/189481193-62e21400-840a-4fd4-b0fe-314ae153ffe7.gif)
 </td>
 </tr>
 
