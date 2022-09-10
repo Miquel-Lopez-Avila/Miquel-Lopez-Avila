@@ -35,7 +35,7 @@
   <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2" align="end" valign="center">
-      [<img alt="Download" src="https://custom-icon-badges.herokuapp.com/badge/-Download my CV-blue?style=for-the-badge&logo=download&logoColor=white">](https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/overlay/1635495045637/single-media-viewer/)
+      [<img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download my CV-blue?style=for-the-badge&logo=download&logoColor=white">](https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/overlay/1635495045637/single-media-viewer/)
     </td>
   </tr>
  <tr>
@@ -73,7 +73,7 @@ If you like my work, you can invite me a coffe!
   <td valign="top" width="100%">
 
 ###### NAVIGATION FOCUS - JS & React hooks - Library
-[<img src="https://user-images.githubusercontent.com/75219640/189481193-62e21400-840a-4fd4-b0fe-314ae153ffe7.gif" width="450">](https://github.com/Miquel-Lopez-Avila/nodes-navigation-focus)
+[<img src="https://user-images.githubusercontent.com/75219640/189481193-62e21400-840a-4fd4-b0fe-314ae153ffe7.gif" width="450">](https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/overlay/1635495045637/single-media-viewer/)
 </td>
 </tr>
 
