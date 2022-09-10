@@ -73,7 +73,7 @@ If you like my work, you can invite me a coffe!
   <td valign="top" width="100%">
 
 ###### NAVIGATION FOCUS - JS & React hooks - Library
-![Screen Recording 2022-09-10 at 13 17 30](https://user-images.githubusercontent.com/75219640/189481193-62e21400-840a-4fd4-b0fe-314ae153ffe7.gif =450x450)
+![Screen Recording 2022-09-10 at 13 17 30](https://user-images.githubusercontent.com/75219640/189481193-62e21400-840a-4fd4-b0fe-314ae153ffe7.gif){ width=450 }
 </td>
 </tr>
 
