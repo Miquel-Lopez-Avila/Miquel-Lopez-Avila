@@ -1,7 +1,5 @@
 <h1 valign="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="38" height="38px" alt="new" valign="bottom"/> 
   Hello, I'm Miquel! 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="38" height="38px" alt="new" valign="bottom"/>
 </h1>
 
 <h3>⚡ Things I code with</h3>
