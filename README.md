@@ -33,7 +33,7 @@
   <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2" align="end" valign="center">
-      <a href="https://www.linkedin.com/in/miquel-l%C3%B3pez-avila-45b9b91b2/overlay/1635495045637/single-media-viewer/">
+      <a href="https://www.linkedin.com/in/miquel-lopez-avila/overlay/1729794652972/single-media-viewer/?profileId=ACoAADGgRkcBNhNCToji5g7QeZtyBywwiq49nEE">
         <img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download my CV-blue?style=for-the-badge&logo=download&logoColor=white">
       </a>
     </td>
@@ -55,7 +55,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**atSistemas**](https://www.atsistemas.com/es)
+- 🏢 I'm currently working at [**knowmadmood**](https://www.knowmadmood.com/es)
 - 🌱 Currently learning **Docker**
 - 🧐 Interested in **Clean Code, Clever Code**
 
