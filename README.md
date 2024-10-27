@@ -72,7 +72,7 @@ If you like my work, you can invite me a coffe!
   <tr>
   <td valign="top" width="100%">
 
-###### PORTFOLIO - React
+###### PORTFOLIO
 [<img src="https://github.com/user-attachments/assets/87c1245a-f04e-4ac7-b06e-f600ed897558" width="450">](https://github.com/Miquel-Lopez-Avila/Portfolio-Miquel)
 </td>
 </tr>
