@@ -33,7 +33,7 @@
   <tbody>
   <tr height="50px !important">
     <td valign="center" width="100%" colspan="2" align="end" valign="center">
-      <a href="https://www.linkedin.com/in/miquel-lopez-avila/details/featured/1729943857463/single-media-viewer/?profileId=ACoAADGgRkcBNhNCToji5g7QeZtyBywwiq49nEE">
+      <a href="https://www.linkedin.com/in/miquel-lopez-avila/details/featured/1730044274272/single-media-viewer/?profileId=ACoAADGgRkcBNhNCToji5g7QeZtyBywwiq49nEE">
         <img alt="Download" align="center" style="margin-right: 5px; display: block;" src="https://custom-icon-badges.herokuapp.com/badge/-Download my CV-blue?style=for-the-badge&logo=download&logoColor=white">
       </a>
     </td>
